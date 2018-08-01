@@ -7,5 +7,5 @@ console.log(specialGuest);
 
 var topic = "space";
 
-var conversation = `Let's talk about ${topic}`;
+var conversation = `Let's talk about ${topic}.`;
 console.log(conversation);
