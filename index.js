@@ -8,4 +8,3 @@ console.log(specialGuest)
 var topic = "space";
 
 var conversation = `${topic}`;
-console.log(greeting + specialGuest + "!")
