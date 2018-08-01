@@ -3,8 +3,9 @@ var greeting = "Hello, everybody!";
 var specialGuest = "Neil deGrasse Tyson";
 
 var greetSpecialGuest = `Hello, ${specialGuest}!`;
-console.log(specialGuest)
+console.log(specialGuest);
 
 var topic = "space";
 
-var conversation = `${topic}`;
+var conversation = `Let's talk about ${topic}`;
+console.log(conversation);
